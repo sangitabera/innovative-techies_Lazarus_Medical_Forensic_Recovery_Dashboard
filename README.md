@@ -239,9 +239,9 @@ Feel free to fork this repo and submit a pull request.
 
 This project is open-source and available under the MIT License.
 
-# 👩‍💻 Author
+# 👩‍💻 Authors
 
-Sangita Bera
+Sangita Bera & Ankan Sen
 
 🚀 Aspiring Backend Engineer |AI & ML Enthusiast
 
