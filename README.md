@@ -110,18 +110,21 @@ decoded_med
 - SpO2 < 90 (Critical)
 
 ## ▶️ Installation
-Clone Repository
-Bash
+### Clone Repository
+```bash
 git clone https://github.com/your-username/lazarus-dashboard.git
 cd lazarus-dashboard
+```
 
-Install Dependencies
-Bash
+### Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-Run Application
-Bash
+### Run Application
+```bash
 streamlit run app.py
+```
 
 ## 📈 Use Cases
 - Healthcare monitoring systems
